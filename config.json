@@ -1,14 +1,9 @@
 {
-    "token": "ODQ4MTkxNzk2ODk0NjI5OTM5.YLJCKw.MxPNIxIz7_8MYZcsH-OY9JWSwfQ",
-    "prefix": "e*",
-
+    "token": "", // Token du bot
+    "prefix": "", // prefix du bot
+// message de bienvenue
     "greeting": {
-        "channel": "829000037245648926",
-        "role": "828993379568320542"
+        "channel": "", // salon de bienvenue
+        "role": "" // role a give au nouveau menbre
     },
-
-    "ticket": {
-        "category": "741691177807380552",
-        "roles": ["741690852719460463", "741690932164034670"]
-    }
 }
