@@ -9,4 +9,3 @@ code simple ez a config
 
 npm i discord.js
 
-node index.js
