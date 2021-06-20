@@ -49,8 +49,7 @@ client.on('guildMemberRemove', member => {
 
 client.on('ready', () => {
   const statuses = [
-      () => `e*help | e*invite`,
-      () => `${client.guilds.cache.size} serveurs ${client.guilds.cache.reduce((acc, guild) => acc + guild.memberCount, 0)} Utilisateur `
+      () => `${client.guilds.cache.size} serveurs ${client.guilds.cache.reduce((acc, guild) => acc + guild.memberCount, 0)} Utilisateur `,
   ]
   let i = 0
   setInterval(() => {
