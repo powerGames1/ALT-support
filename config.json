@@ -1,0 +1,14 @@
+{
+    "token": "ODQ4MTkxNzk2ODk0NjI5OTM5.YLJCKw.MxPNIxIz7_8MYZcsH-OY9JWSwfQ",
+    "prefix": "e*",
+
+    "greeting": {
+        "channel": "829000037245648926",
+        "role": "828993379568320542"
+    },
+
+    "ticket": {
+        "category": "741691177807380552",
+        "roles": ["741690852719460463", "741690932164034670"]
+    }
+}
