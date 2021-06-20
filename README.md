@@ -7,5 +7,6 @@ code simple ez a config
 
 # les module
 
-// npm i discord.js
-puis // node index.js
+npm i discord.js
+
+node index.js
