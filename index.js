@@ -1,3 +1,4 @@
+// a ne pas touchez 
 const Discord = require('discord.js'),
     client = new Discord.Client({
         fetchAllMembers: true,
@@ -31,7 +32,8 @@ client.on('message', message => {
     if (!command) return
     command.run(message, args, client)
 })
- 
+// vous pouver modifier ici  
+
 client.on('guildMemberAdd', member => {
     member.guild.channels.cache.get(config.greeting.channel).send(`${member}`, new Discord.MessageEmbed()
         .setDescription(`${member} a rejoint le serveur. Nous sommes désormais ${member.guild.memberCount} ! 🎉`)
