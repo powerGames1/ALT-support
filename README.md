@@ -1,11 +1,12 @@
 # ALT-support
-Bot discord support reutilisable pour vous
+Bot discord support reusable for you
 
-# Code simple pour les debut
+# Simple code for the beginning
 
-code simple ez a config 
+simple code ez a config
 
-# les module
+# module
 
 npm i discord.js
+
 
